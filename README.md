@@ -11,7 +11,7 @@ Well at this point this script has reached the pinnacle of what is available in 
 * Streamable : https://streamable.com/xn09cg (in english)
 
 ## Screenshot
-![menu screenshot](https://cdn.discordapp.com/attachments/658236178268684291/1168272230757707796/image.png?ex=6551294d&is=653eb44d&hm=e55413445cd5cad83e0c403da3745249af77e6c8cf25543da03d52f8b17ea176&)
+![menu screenshot](https://cdn.discordapp.com/attachments/658236178268684291/1170059105612869642/image.png?ex=6557a975&is=65453475&hm=ee1a79fddc0abccfe00ce26c2793bced283dfe37a88411eb375b22673ed18721&)
 
 ## Features
 * Easy [configuration](https://github.com/Path-to-Precision/p2p_Carwash/blob/main/shared/config.lua)
