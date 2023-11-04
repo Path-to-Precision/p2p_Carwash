@@ -7,7 +7,7 @@ A simple carwash in RageUI v2 working at 0.00ms with ESX framework.
 Well at this point this script has reached the pinnacle of what is available in the world of free and open-source script. Feel free to propose an addition by submitting a [pull request](https://github.com/Path-to-Precision/p2p_Carwash/pulls) on this repository.
 
 ## Video
-* YouTube : https://youtu.be/E4TT51jnNmM (in french)
+* YouTube : https://youtu.be/6PeEg54iOqE (in french)
 * Streamable : https://streamable.com/xn09cg (in english)
 
 ## Screenshot
